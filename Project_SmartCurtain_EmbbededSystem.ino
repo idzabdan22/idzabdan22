@@ -9,13 +9,13 @@
 #include <Servo.h>
 //end
 //System Define
-#define WIFI_SSID "Adam@AP"
-#define WIFI_PASSWORD "kindaprivate2345"
-#define BOT_TOKEN "1892472769:AAFLwUGSKHhKPfY5OSipvEiETyvdmztKOMc"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
+#define BOT_TOKEN "Your Telegram Bot Token"
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
 #define AIO_USERNAME "smartcurtain2345"
-#define AIO_KEY "aio_pCsA92U6c5QslhZgRcviKiZ9NPCS"
+#define AIO_KEY "Your Adafruit IO token"
 //end
 //User Define
 #define MAX_DATA 20
